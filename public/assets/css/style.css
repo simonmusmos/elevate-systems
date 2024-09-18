@@ -92,7 +92,8 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-color: #7335b7;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(250,110,34,1) 0%, rgba(250,110,34,1) 0%, rgba(252,163,39,1) 100%);
   border-radius: 0 0 350px 0;
 }
 
@@ -126,17 +127,18 @@ a:focus {
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 5px 25px;
-  color: #ffffff;
   text-align: center;
   text-transform: uppercase;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
+  font-weight: bold;
+  color: #ffffff;
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
-  color: #000000;
-  background-color: #ffffff;
+  color: #fff;
+  background-color: #5a2a8f;
 }
 
 .custom_nav-container .navbar-toggler {
@@ -247,12 +249,12 @@ a:focus {
 .quote_btn-container .quote_btn {
   display: inline-block;
   padding: 5px 25px;
-  background-color: #f8842b;
+  background-color: #5a2a8f;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 1px solid #f8842b;
+  border: 1px solid #5a2a8f;
 }
 
 .quote_btn-container .quote_btn:hover {
@@ -358,7 +360,7 @@ a:focus {
 .slider_section .carousel-indicators li.active {
   width: 23px;
   height: 23px;
-  background-color: #f8842b;
+  background-color: #5a2a8f;
 }
 
 .service_section {

@@ -8,9 +8,9 @@
     <header class="header_section">
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
-          <a class="navbar-brand" href="index.html">
+          <a class="navbar-brand" href="/">
             <span>
-              Digian
+              <img src="{!! url('assets/images/logo/logo-white.png') !!}" alt="" width="150">
             </span>
           </a>
 
@@ -52,22 +52,22 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="img-box">
-                    <img src="{!! url('assets/images/slider-img.png') !!}" alt="">
+                    <img src="{!! url('assets/images/slider1.png') !!}" alt="">
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="detail-box">
                     <h1>
-                      Digital Marketing Experts
+                      Elevate Your Company
                     </h1>
                     <p>
-                      Aenean scelerisque felis ut orci condimentum laoreet. Integer nisi nisl, convallis et augue sit amet, lobortis semper quam.
+                      Reach new heights by increasing brand visibility, building credibility, and enabling 24/7 customer engagement and marketing opportunities.
                     </p>
-                    <div class="btn-box">
+                    {{-- <div class="btn-box">
                       <a href="" class="btn1">
                         Contact Us
                       </a>
-                    </div>
+                    </div> --}}
                   </div>
                 </div>
               </div>
@@ -78,22 +78,22 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="img-box">
-                    <img src="{!! url('assets/images/slider-img.png') !!}" alt="">
+                    <img src="{!! url('assets/images/slider2.png') !!}" alt="">
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="detail-box">
                     <h1>
-                      Digital Marketing Experts
+                      Innovation meets Excellence
                     </h1>
                     <p>
-                      Aenean scelerisque felis ut orci condimentum laoreet. Integer nisi nisl, convallis et augue sit amet, lobortis semper quam.
+                      Explore our cutting-edge solutions tailored to elevate your business!
                     </p>
-                    <div class="btn-box">
+                    {{-- <div class="btn-box">
                       <a href="" class="btn1">
                         Contact Us
                       </a>
-                    </div>
+                    </div> --}}
                   </div>
                 </div>
               </div>
@@ -104,22 +104,22 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="img-box">
-                    <img src="{!! url('assets/images/slider-img.png') !!}" alt="">
+                    <img src="{!! url('assets/images/slider3.png') !!}" alt="">
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="detail-box">
                     <h1>
-                      Digital Marketing Experts
+                      Fueled by Passion
                     </h1>
                     <p>
-                      Aenean scelerisque felis ut orci condimentum laoreet. Integer nisi nisl, convallis et augue sit amet, lobortis semper quam.
+                      Passion fuels our creativity, drives our innovation, and inspires us to deliver exceptional solutions. Let our passion for progress transform your business and take it to new heights!
                     </p>
-                    <div class="btn-box">
+                    {{-- <div class="btn-box">
                       <a href="" class="btn1">
                         Contact Us
                       </a>
-                    </div>
+                    </div> --}}
                   </div>
                 </div>
               </div>
