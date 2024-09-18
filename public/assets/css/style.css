@@ -333,6 +333,10 @@ a:focus {
           transform: translateY(-3px);
 }
 
+.slider_section .img-box {
+  height: 500px;
+}
+
 .slider_section .img-box img {
   width: 100%;
 }
