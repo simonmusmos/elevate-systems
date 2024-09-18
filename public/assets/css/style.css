@@ -84,6 +84,7 @@ a:focus {
 /*header section*/
 .hero_area {
   position: relative;
+  height: 100vh;
   min-height: 100vh;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -331,10 +332,6 @@ a:focus {
   color: #ffffff;
   -webkit-transform: translateY(-3px);
           transform: translateY(-3px);
-}
-
-.slider_section .img-box {
-  height: 500px;
 }
 
 .slider_section .img-box img {
