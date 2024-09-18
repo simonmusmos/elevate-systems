@@ -52,7 +52,7 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="img-box">
-                    <img src="images/slider-img.png" alt="">
+                    <img src="{!! url('assets/images/slider-img.png') !!}" alt="">
                   </div>
                 </div>
                 <div class="col-md-6">
@@ -78,7 +78,7 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="img-box">
-                    <img src="images/slider-img.png" alt="">
+                    <img src="{!! url('assets/images/slider-img.png') !!}" alt="">
                   </div>
                 </div>
                 <div class="col-md-6">
@@ -104,7 +104,7 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="img-box">
-                    <img src="images/slider-img.png" alt="">
+                    <img src="{!! url('assets/images/slider-img.png') !!}" alt="">
                   </div>
                 </div>
                 <div class="col-md-6">
@@ -152,7 +152,7 @@
         <div class="col-md-6 col-lg-3">
           <div class="box">
             <div class="img-box">
-              <img src="images/s1.png" alt="">
+              <img src="{!! url('assets/images/s1.png') !!}" alt="">
             </div>
             <div class="detail-box">
               <h5>
@@ -173,7 +173,7 @@
         <div class="col-md-6 col-lg-3">
           <div class="box">
             <div class="img-box">
-              <img src="images/s2.png" alt="">
+              <img src="{!! url('assets/images/s2.png') !!}" alt="">
             </div>
             <div class="detail-box">
               <h5>
@@ -194,7 +194,7 @@
         <div class="col-md-6 col-lg-3">
           <div class="box">
             <div class="img-box">
-              <img src="images/s3.png" alt="">
+              <img src="{!! url('assets/images/s3.png') !!}" alt="">
             </div>
             <div class="detail-box">
               <h5>
@@ -215,7 +215,7 @@
         <div class="col-md-6 col-lg-3">
           <div class="box">
             <div class="img-box">
-              <img src="images/s4.png" alt="">
+              <img src="{!! url('assets/images/s4.png') !!}" alt="">
             </div>
             <div class="detail-box">
               <h5>
@@ -268,7 +268,7 @@
         </div>
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/about-img.png" alt="">
+            <img src="{!! url('assets/images/about-img.jpg') !!}" alt="">
           </div>
         </div>
 
@@ -291,7 +291,7 @@
         <div class="col-md-6">
           <div class="box">
             <div class="img-box">
-              <img src="images/case-1.jpg" alt="">
+              <img src="{!! url('assets/images/case-1.jpg') !!}" alt="">
             </div>
             <div class="detail-box">
               <h5>
@@ -312,7 +312,7 @@
         <div class="col-md-6">
           <div class="box">
             <div class="img-box">
-              <img src="images/case-2.jpg" alt="">
+              <img src="{!! url('assets/images/case-2.jpg') !!}" alt="">
             </div>
             <div class="detail-box">
               <h5>
@@ -353,7 +353,7 @@
               <div class="col-md-10 mx-auto">
                 <div class="box">
                   <div class="img-box">
-                    <img src="images/client.jpg" alt="">
+                    <img src="{!! url('assets/images/client.jpg') !!}" alt="">
                   </div>
                   <div class="detail-box">
                     <div class="client_info">
@@ -388,7 +388,7 @@
               <div class="col-md-10 mx-auto">
                 <div class="box">
                   <div class="img-box">
-                    <img src="images/client.jpg" alt="">
+                    <img src="{!! url('assets/images/client.jpg') !!}" alt="">
                   </div>
                   <div class="detail-box">
                     <div class="client_info">
@@ -423,7 +423,7 @@
               <div class="col-md-10 mx-auto">
                 <div class="box">
                   <div class="img-box">
-                    <img src="images/client.jpg" alt="">
+                    <img src="{!! url('assets/images/client.jpg') !!}" alt="">
                   </div>
                   <div class="detail-box">
                     <div class="client_info">
