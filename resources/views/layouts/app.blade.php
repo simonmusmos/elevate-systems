@@ -10,7 +10,7 @@
         <meta name="description" content="" />
         <meta name="author" content="" />
         <title>Elevate Systems</title>
-
+        <link rel="icon" type="image/x-icon" href="{!! url('assets/images/logo/favicon.ico') !!}">
         <!-- Bootstrap core CSS -->
         <link href="{!! url('assets/css/bootstrap.css') !!}" rel="stylesheet">
         <link href="{!! url('assets/css/font-awesome.min.css') !!}" rel="stylesheet" />
