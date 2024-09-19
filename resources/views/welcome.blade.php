@@ -145,100 +145,82 @@
           Our Services
         </h2>
         <p>
-          consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Discover our offerings for top-notch database management, seamless mobile solutions, and dynamic web development.
         </p>
       </div>
       <div class="row">
         <div class="col-md-6 col-lg-3">
           <div class="box">
             <div class="img-box">
-              <img src="{!! url('assets/images/s1.png') !!}" alt="">
+              <img src="{!! url('assets/images/service1.png') !!}" alt="">
             </div>
             <div class="detail-box">
               <h5>
-                Link Building
+                Web Development
               </h5>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                Creating sleek, responsive websites for top-notch user experiences.
               </p>
-              <a href="">
+              {{-- <a href="">
                 <span>
                   Read More
                 </span>
                 <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-              </a>
+              </a> --}}
             </div>
           </div>
         </div>
         <div class="col-md-6 col-lg-3">
           <div class="box">
             <div class="img-box">
-              <img src="{!! url('assets/images/s2.png') !!}" alt="">
+              <img src="{!! url('assets/images/service2.png') !!}" alt="">
             </div>
             <div class="detail-box">
               <h5>
                 On page SEO
               </h5>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                Enhancing search rankings and user experience with strategic page optimization.
               </p>
-              <a href="">
-                <span>
-                  Read More
-                </span>
-                <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-              </a>
             </div>
           </div>
         </div>
         <div class="col-md-6 col-lg-3">
           <div class="box">
             <div class="img-box">
-              <img src="{!! url('assets/images/s3.png') !!}" alt="">
+              <img src="{!! url('assets/images/service3.png') !!}" alt="">
             </div>
             <div class="detail-box">
               <h5>
-                Online Marketing
+                Mobile Development
               </h5>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                Building smooth and seamless mobile experiences with precision.
               </p>
-              <a href="">
-                <span>
-                  Read More
-                </span>
-                <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-              </a>
             </div>
           </div>
         </div>
         <div class="col-md-6 col-lg-3">
           <div class="box">
             <div class="img-box">
-              <img src="{!! url('assets/images/s4.png') !!}" alt="">
+              <img src="{!! url('assets/images/service4.png') !!}" alt="">
             </div>
             <div class="detail-box">
               <h5>
-                Email Marketing
+                Database Ops
               </h5>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                Optimizing databases for top performance and reliability.
               </p>
-              <a href="">
-                <span>
-                  Read More
-                </span>
-                <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-              </a>
             </div>
           </div>
         </div>
       </div>
-      <div class="btn-box">
+      {{-- <div class="btn-box">
         <a href="">
           View More
         </a>
-      </div>
+      </div> --}}
     </div>
   </section>
   <!-- end service section -->
@@ -518,12 +500,9 @@
         <div class="row">
           <div class="col-md-6 col-lg-3 ">
             <div class="info_detail">
-              <h4>
-                Digian
-              </h4>
-              <p>
-                Necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful
-              </p>
+              <span>
+                <img src="{!! url('assets/images/logo/logo-white.png') !!}" alt="" width="150">
+              </span>
             </div>
           </div>
           <div class="col-md-6 col-lg-2 mx-auto">
@@ -609,8 +588,7 @@
     <footer class="footer_section">
       <div class="container">
         <p>
-          &copy; <span id="displayYear"></span> All Rights Reserved By
-          <a href="https://html.design/">Free Html Templates</a>
+          &copy; <span id="displayYear"></span> All Rights Reserved
         </p>
       </div>
     </footer>
